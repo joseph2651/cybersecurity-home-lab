@@ -2,11 +2,12 @@
 
 Hands-on cybersecurity lab focused on developing real-world skills in:
 
-- Asset security and inventory tracking
+- SOC analysis and threat detection
 - Network segmentation and VLAN configuration
 - Vulnerability scanning and remediation
 - Governance, Risk, and Compliance (GRC) practices
 - Home server and firewall deployment (OpnSense, Linux-based systems)
+- Rent GPUs via cloud providers (e.g RunPod, Vast.ai ) for accelerated LLM experimentation
 
 ## Lab Goals
 
